@@ -33,4 +33,4 @@ In order to test the program, you can compile the **.c file** with gcc compiler 
 </kbd>
 <br>
 
-#### For more detailed questions, you can contact me at this email address: msarac13@ku.edu.tr &nbsp;&nbsp;:email:
+#### For more detailed questions, you can contact us at this email addresses: msarac13@ku.edu.tr || mcibik13@ku.edu.tr &nbsp;&nbsp;:email:
